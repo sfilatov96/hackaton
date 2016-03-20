@@ -1,0 +1,31 @@
+.below{
+	margin-top: 60px;
+}
+body{
+	background-color: #BFBFBF;
+}
+img{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.content{
+	float: right;
+	width:200px;
+}
+.picture{
+	width: 140px;
+	margin-right: 0px;
+	float:left;
+}
+.starter-template{
+	width: 350px;
+	background-color: white;
+	margin-top: 2px;
+	margin-left: 4px;
+	margin-right: 4px;
+	padding:4px; 
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	border-radius: 4px;
+	border: 1px solid #DCDCDC;
+	padding-bottom:4px; 
+}
